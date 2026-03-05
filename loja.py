@@ -1,4 +1,4 @@
-print("bem vindo, esse programa foi produzido por henriqucassol09")
+print("bem vindo, esse programa foi produzido por Kyara")
 
 var1 = input("qual o nome do primeiro produto")
 var2 = input("qual o nome do segundo produto")
